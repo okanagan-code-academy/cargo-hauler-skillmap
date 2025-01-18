@@ -1,7 +1,7 @@
 ```package
 rotsprite=github:chasemor/pxt-arcade-rotsprite#b5b91d0f67e4df90ec703c36875c30afffbe653c
 spriteutil=github:jwunderl/arcade-sprite-util
-arcade-sprite-data=github:microsoft/arcade-sprite-data#v0.2.1
+arcade-sprite-data=github:microsoft/arcade-sprite-data
 tickevent=github:microsoft/pxt-tick-event
 timers=github:microsoft/arcade-timers
 arcade-background-scroll=github:microsoft/arcade-background-scroll

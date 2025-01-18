@@ -11,7 +11,7 @@
 * name: Paddle Design
 * type: tutorial
 * description: Draw and code a Paddle!
-* url: https://github.com/OkanaganCodeAcademy/cargo-hauler-skillmap/tutorials/activities/activity-1
+* url: https://github.com/okanagan-code-academy/cargo-hauler-skillmap/tutorials/activities/activity-1
 * tags: easy, sprites, kinds
 * next: brick-breaker-activity2
 * allowcodecarryover: true
@@ -21,7 +21,7 @@
 - name: Creating the Ball
 - type: tutorial
 - description: Draw and code a Ball!
-- url: https://github.com/OkanaganCodeAcademy/cargo-hauler-skillmap/tutorials/activities/activity-2
+- url: https://github.com/okanagan-code-academy/cargo-hauler-skillmap/tutorials/activities/activity-2
 - tags: easy, sprites, kinds, events, math
 - next: brick-breaker-activity3
 - allowcodecarryover: true
@@ -31,6 +31,6 @@
 - name: Creating the Ball
 - type: tutorial
 - description: Draw and code a Ball!
-- url: https://github.com/OkanaganCodeAcademy/cargo-hauler-skillmap/tutorials/activities/activity-3
+- url: https://github.com/okanagan-code-academy/cargo-hauler-skillmap/tutorials/activities/activity-3
 - tags: easy, sprites, kinds, events, math
 - allowcodecarryover: true
